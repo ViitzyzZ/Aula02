@@ -1,2 +1,5 @@
 # Aula02
-Exemplo
+print("hello")
+nome = "braian"
+print(nome)
+
