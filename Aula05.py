@@ -53,7 +53,7 @@ print("Minha lista com índice removido: ",minhaLista)
 del minhaLista[1]
 print("Minha lista com item removido com del ",minhaLista)
 
-#Deleta a lista todan APAGA TUDO!
+#Deleta a lista toda APAGA TUDO!
 #del minhalista
 
 #Limpa a lista mas não deleta ela.
