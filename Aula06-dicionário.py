@@ -28,9 +28,11 @@ for x in meuDicionario:
 for x in meuDicionario.values():
     print("Percorrendo o dicionário para retornar o valor com values(): ", x)
 
+#Percorrendo dicionário, mostrando chave e valor
 for x in meuDicionario:
     print(x, meuDicionario[x])
 
+#Verificar se a chave existe no dicionário
 if "idade" in meuDicionario:
     print("Sim tem a chave idade no dicionário")
 
